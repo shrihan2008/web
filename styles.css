@@ -20,12 +20,13 @@ a:link{
     color:#ffffff;
 }
 
-/*a:old*/
-/*a:clicked*/
-/*a:seen{*/
-/*a:visited{*/
+a:old
+a:clicked
+
+a:visited{
     color: #ffffff;
 }
+
 
 .bodyimg{
     position: absolute;
@@ -71,10 +72,6 @@ a:link{
     
 }
 
-/* .origami:hover{ */
-/*.origami : mouseover{*/
-/*.origami:link{*/
-/*origami:hover{*/
-
+.origami:hover{ 
     transform: scale(1.2);
 }
